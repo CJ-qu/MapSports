@@ -293,7 +293,7 @@ class App {
 
     this.#workout = data;
 
-    this.#workout.forEach(work => this / this._renderWorkout(work));
+    this.#workout.forEach(work => this._renderWorkout(work));
   }
 
   reset(){
