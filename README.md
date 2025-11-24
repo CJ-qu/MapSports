@@ -40,9 +40,6 @@ This project was built as part of Jonas Schmedtmann's JavaScript course to pract
 2.  **Open `index.html`**
     Simply open the `index.html` file in any modern web browser. No build step or server is required.
 
-## 📸 Screenshots
-
-![App Architecture](Mapty-architecture-final.png)
 
 ## 📚 Learnings
 
@@ -53,9 +50,4 @@ This project focuses on:
 - Managing data with **Local Storage**.
 - Implementing **Object-Oriented Programming** in JavaScript.
 
-## © Credits
 
-Based on the "Complete JavaScript Course" by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman).
-
----
-&copy; Copyright by Chuanjie Qu.
